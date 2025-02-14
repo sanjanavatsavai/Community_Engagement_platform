@@ -2,9 +2,9 @@
 
 Name: Sanjana Vatsavai
 
-G-Number: G01371785
 
-Email: svatsava@gmu.edu
+
+Email: sanjanavatsavai@gmail.com
 
 ### Project Installation
 
